@@ -1,0 +1,15 @@
+# Eliminación de carpetas de compilación de .NET
+bin/
+obj/
+
+# Archivos de usuario y configuraciones locales de IDEs
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de texto generados por el juego (Opcional)
+# Nota: Si quieres que el juego empiece "limpio" en GitHub, puedes ignorar los registros temporales.
+# Pero te sugiero DEJAR 'estudiantes.txt' y 'habilidades.txt' rastreados para que el programa no rompa al clonarse.
+ranking_final.txt
