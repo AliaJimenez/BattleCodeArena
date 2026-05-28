@@ -41,4 +41,4 @@ Para compilar y correr la arena en tu máquina local, asegúrate de tener instal
 
 1. Clona este repositorio:
 ```bash
-   git clone [https://github.com/TU_USUARIO/BattleCodeArena.git](https://github.com/TU_USUARIO/BattleCodeArena.git)
+   git clone https://github.com/AliaJimenez/BattleCodeArena
